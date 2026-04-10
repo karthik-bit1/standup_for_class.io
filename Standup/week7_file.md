@@ -11,4 +11,4 @@ permalink: /Standup/week7_file/
 3. Having issue with latency as the code updates. Will be working on it incrementally.
 4. Personally I like working on the test cases and corecting error, professionally I am good at finding error in the code.
 5. 
-![Gantt Chart task] (/standup_for_class.io/images/Ghanttchattask6.png)
+![Gantt Chart task](/standup_for_class.io/images/Ghanttchattask6.png)
