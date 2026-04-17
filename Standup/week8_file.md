@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Standup Reflection
-permalink: /Standup/week7_file/
+permalink: /Standup/week8_file/
 ---
 
 # StandUp Reflection
